@@ -1,2 +1,4 @@
-# volume-of-3d-mesh
-Calculate the volume of a closed triangle mesh in lightwave
+# Volume of 3d mesh
+### Calculate the volume of a closed triangle mesh in lightwave
+
+I programmed this lscript to calculate the volume of any closed triangulated 3d mesh & display the volume in litres. Seems to work correctly but I can't guarantee the accuracy, at least not for complex shapes. It does however give correct results on simple geometry... And probably on complex shapes to. Based on math found here.
